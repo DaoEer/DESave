@@ -1,0 +1,10 @@
+{
+  "name": "com.daoeer.desave",
+  "displayName": "DESave",
+  "version": "1.0.0",
+  "documentationUrl": "https://github.com/DaoEer/DESave",
+  "changelogUrl": "https://github.com/DaoEer/DESave/releases",
+  "licensesUrl": "https://github.com/DaoEer/DESave/LICENSE.txt",
+  "description": "",
+  "hideInEditor": false
+}
